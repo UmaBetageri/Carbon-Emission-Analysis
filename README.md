@@ -6,3 +6,5 @@ The United States on average produced 6.6 billion metric tons of carbon dioxide 
 To view all visualizations and further details, kindly visit the following website.
 
 [Project Website](https://sites.google.com/sdsu.edu/energy-carbon-emissions/)
+
+[](https://lh3.googleusercontent.com/_TJiYDqGPKgDtlrqwXBSIiunZPN1HN_2-9CMCpkwFeTjjA8kq1JsxU4TsGu5Pq_rg-tQ2gO72bbChQ261XQbVrqei4T-5aOcRRa90xNkL8uUl0X_uwqFey-o15d48rYUmw=w1280)
