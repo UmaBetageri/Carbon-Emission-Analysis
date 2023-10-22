@@ -8,9 +8,9 @@ To view all visualizations and further details about the project, kindly visit [
 Carbon emissions, sometimes known as greenhouse gases, are the main cause of global warming. This line brought to mind the rising global temperature, the world's population, and the US's partially destroyed ozone layer. As students studying cutting-edge technologies, we feel obligated to be aware of our surroundings. We can surely utilize technology to transform the real world if we can use our analysis to grasp its problems, which is now the case. This is due to the fact that identifying the root of an issue solves half of it. Every living thing on the planet is impacted by a poor environment and contaminated air, water, and soil, regardless of where in the globe one lives. This makes addressing global warming and carbon emissions crucial.
 
 ### Tools Used
-Web Development : Google Sites
-Visualization : Tableau, ArcGIS
-Data Preparation : Microsoft Excel
+1) Web Development : Google Sites
+2) Visualization : Tableau, ArcGIS
+3) Data Preparation : Microsoft Excel
 
 ## Dataset
 Data for the project was obtained from the Energy Information Administration (EIA) website in the United States. This dataset includes information on energy-related carbon emissions for the five main sectors of transportation, industry, electricity, and residential and commercial buildings from 1980 to 2018. Three main sources account for the majority of energy-related emissions: natural gas, coal, and petroleum. You can download the dataset from following links.
