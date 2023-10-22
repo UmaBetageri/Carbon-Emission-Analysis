@@ -30,7 +30,7 @@ This repository contains the cleaned and processed data.
 ### Data Visualizations
 Some of the most important visualizations are shown below. Please visit the website for more information and plots.
 
-<img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/2d9871ef-e26f-4afc-92b1-f1bc2bb59a1d' width='500'> <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/4423bb84-1722-4e85-bff1-0e452b75ab0c' width='450'>
+<img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/2d9871ef-e26f-4afc-92b1-f1bc2bb59a1d' width='400'> <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/4423bb84-1722-4e85-bff1-0e452b75ab0c' width='350'>
 
 
 This graph on the left depicts the overall trend in carbon emissions by sector. Our dataset includes five sectors: commercial, transportation, electric power, residential, and industrial. We can see that over decades, the electric power sector has produced the most emissions. The total amount of electricity generated in the United States by the electric power industry from all energy sources was 4.01 trillion kilowatt-hours (kWh), resulting in the emission of 1.55 billion metric tons—1.71 billion short tons—of carbon dioxide (CO2).
