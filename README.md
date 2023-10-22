@@ -12,20 +12,29 @@ Carbon emissions, sometimes known as greenhouse gases, are the main cause of glo
 2) Visualization : Tableau, ArcGIS
 3) Data Preparation : Microsoft Excel
 
-## Dataset
+### Dataset
 Data for the project was obtained from the Energy Information Administration (EIA) website in the United States. This dataset includes information on energy-related carbon emissions for the five main sectors of transportation, industry, electricity, and residential and commercial buildings from 1980 to 2018. Three main sources account for the majority of energy-related emissions: natural gas, coal, and petroleum. You can download the dataset from following links.
 
 [Emission Data](https://www.eia.gov/environment/emissions/state/)
 
 [Geographical Data](https://developers.google.com/public-data/docs/canonical/states_csv)
 
-## Data Preparaion
+### Data Preparaion
 Data preparation and cleaning are carried out in sequential steps, with distinct files being made for each set of graphs.
 1) Combine information from 50 excel files—one for each state—into one file.
 2) Update each state's latitude and longitude.
 3) Create separate CSV files containing temporal data for every sector and source.
 
-This repository contains the final data.
+This repository contains the cleaned and processed data.
+
+### Data Visualizations
+Some of the most important visualizations are shown below. Please visit the website for more information and plots.
+
+<img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/2d9871ef-e26f-4afc-92b1-f1bc2bb59a1d' width='500'> <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/4423bb84-1722-4e85-bff1-0e452b75ab0c' width='500'>
+
+
+This graph depicts the overall trend in carbon emissions by sector. Our dataset includes five sectors: commercial, transportation, electric power, residential, and industrial. We can see that over decades, the electric power sector has produced the most emissions. The total amount of electricity generated in the United States by the electric power industry from all energy sources was 4.01 trillion kilowatt-hours (kWh), resulting in the emission of 1.55 billion metric tons—1.71 billion short tons—of carbon dioxide (CO2).
 
 <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/2d9871ef-e26f-4afc-92b1-f1bc2bb59a1d' width='600'>
+
 
