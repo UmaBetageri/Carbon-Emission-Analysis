@@ -7,5 +7,5 @@ To view all visualizations and further details, kindly visit the following websi
 
 [Project Website](https://sites.google.com/sdsu.edu/energy-carbon-emissions/)
 
-![image](https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/2d9871ef-e26f-4afc-92b1-f1bc2bb59a1d)
+![image](https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/2d9871ef-e26f-4afc-92b1-f1bc2bb59a1d | width=100)
 
