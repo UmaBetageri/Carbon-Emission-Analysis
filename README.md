@@ -37,6 +37,8 @@ This graph on the left depicts the overall trend in carbon emissions by sector. 
 
 The carbon emission "Source-wise" trend is shown in the graph on the right. We analyzed three primary sources: natural gas, coal, and petroleum. The majority of the thousands of metric tons of polluting emissions released annually come from these three sources. As we can see, the petroleum products are the most polluting of these. They have a major role in the current state of climate change.
 
-<img src='' width='600'>
+<img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/ec0ef109-f449-4aa1-a65b-9f6b7cea67fd' width='600'>
+
+
 
 
