@@ -28,7 +28,7 @@ Data preparation and cleaning are carried out in sequential steps, with distinct
 This repository contains the cleaned and processed data.
 
 ### Data Visualizations
-Some of the most important visualizations are shown below. Please visit the website for more information and plots.
+Some of the most common visualizations are shown below. 
 
 <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/2d9871ef-e26f-4afc-92b1-f1bc2bb59a1d' width='400'> <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/4423bb84-1722-4e85-bff1-0e452b75ab0c' width='350'>
 
@@ -43,6 +43,10 @@ This trend graph shows the overall carbon emissions by per state. We can see her
 
 <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/e86627cb-feb6-4be4-a1af-ec6e8f7d2b05' width='800'>
 
-This is the analysis of sector-specific trends for the years 1983–2018. The industries with the highest emissions in recent years have been transportation and electric power, nearly equally. We can see a peak around year 2003 in transportation and electric power sectors. The combustion of fossil fuels for the production of electricity is responsible for more than 40% of energy-related CO2 emissions. However, there has been a slight decrease in carbon emissions from the electric power sector in recent years. This could be a result of the rise in wind and solar power installations.
+This is the analysis of sector-specific trends for the years 1983–2018. The industries with the highest emissions in recent years have been transportation and electric power, nearly equally. We can see a peak around year 2005 in transportation and electric power sectors. The combustion of fossil fuels for the production of electricity is responsible for more than 40% of energy-related CO2 emissions. However, there has been a slight decrease in carbon emissions from the electric power sector in recent years. This could be a result of the rise in wind and solar power installations.
 
+ For additional details, as well as more in-depth analyses and visualizations of each sector and source, please visit the website.
 
+ ### Conclusions
+
+ This project analyzes the root causes of the 6.6 billion metric tons of greenhouse gas emissions the US produced in 2019 from 1980 to 2018. Along with the electric power sector, the transportation sector also makes a significant contribution, given its heavy reliance on petroleum fuels. Because of things like industrialization and economic expansion, fossil fuels continue to be the most widely used energy source. Texas's industrial activity, and energy-intensive goods production make it stand out as a high emitter. Depletion of resources, diminished ice cover, and global warming are caused by greenhouse gas emissions. In order to lower carbon emissions and save the planet for future generations, eco-friendly alternatives must be adopted in light of the growing population and usage of technology.
