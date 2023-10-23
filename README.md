@@ -39,6 +39,10 @@ The carbon emission "Source-wise" trend is shown in the graph on the right. We a
 
 <img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/ec0ef109-f449-4aa1-a65b-9f6b7cea67fd' width='800'>
 
+This trend graph shows the overall carbon emissions by per state. We can see here in the 50 states and their individual contributions to the emissions across United States. As per observation, Texas has the highest carbon footprint. This can be contributed to the growing production, automobile and refinery industries in the state of Texas. Texas has a large presence of the country's energy industry, which causes most of this carbon emissions.
 
+<img src='https://github.com/UmaBetageri/Carbon-Emission-Analysis/assets/134670470/e86627cb-feb6-4be4-a1af-ec6e8f7d2b05' width='800'>
+
+This is the analysis of sector-specific trends for the years 1983–2018. The industries with the highest emissions in recent years have been transportation and electric power, nearly equally. We can see a peak around year 2003 in transportation and electric power sectors. The combustion of fossil fuels for the production of electricity is responsible for more than 40% of energy-related CO2 emissions. However, there has been a slight decrease in carbon emissions from the electric power sector in recent years. This could be a result of the rise in wind and solar power installations.
 
 
